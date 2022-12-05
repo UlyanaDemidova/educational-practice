@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">K-Pop Test</string>
+    <string name="tests_kpop_group">Tests K-pop group</string>
+    <string name="group_nicknames_title">Насколько ты знаешь псевдонимы участников?</string>
+    <string name="frame_question_title">Сможешь угадать клип по кадру?</string>
+    <string name="child_photo_question_title">Узнаешь участница по детскому фото?</string>
+    <string name="character_member_question_title">Знаешь ли ты персонажей мемберов?</string>
+    <string name="biography_question_title">Проверим твои знания в биографии групп?</string>
+    <string name="theme_title_light">Тема</string>
+    <string name="text_dark_theme">Темная тема</string>
+    <string name="text_light_theme">Светлая тема</string>
+</resources>
