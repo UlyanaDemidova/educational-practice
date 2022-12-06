@@ -234,5 +234,955 @@
         "image": "t1q10"
       }
     ]
+  },
+  {
+    "title": "Сможешь угадать клип по кадру?",
+    "questions":
+    [
+      {
+        "question": "Это...",
+        "answers":
+        [
+          {
+            "answer": "Fake love",
+            "isCorrect": true
+          },
+          {
+            "answer": "Dynamite",
+            "isCorrect": false
+          },
+          {
+            "answer": "Loser=Lover",
+            "isCorrect": false
+          },
+          {
+            "answer": "Domino",
+            "isCorrect": false
+          }
+        ],
+        "image": "t2q1"
+      },
+      {
+        "question":"Это...",
+        "answers":
+        [
+          {
+            "answer": "Maniac",
+            "isCorrect": false
+          },
+          {
+            "answer": "Black swan",
+            "isCorrect": true
+          },
+          {
+            "answer": "Frost",
+            "isCorrect": false
+          },
+          {
+            "answer": "Red Lights",
+            "isCorrect": false
+          }
+        ],
+        "image": "t2q2"
+      },
+      {
+        "question": "Это...",
+        "answers": [
+          {
+            "answer": "Domino",
+            "isCorrect": false
+          },
+          {
+            "answer": "Eternally",
+            "isCorrect": false
+          },
+          {
+            "answer": "Dynamite",
+            "isCorrect": true
+          },
+          {
+            "answer": "Maniac",
+            "isCorrect": false
+          }
+        ],
+        "image": "t2q3"
+      },
+      {
+        "question": "Это...",
+        "answers": [
+          {
+            "answer": "Fake love",
+            "isCorrect": false
+          },
+          {
+            "answer": "Black swan",
+            "isCorrect": false
+          },
+          {
+            "answer": "Christmas Evil",
+            "isCorrect": false
+          },
+          {
+            "answer": "Domino",
+            "isCorrect": true
+          }
+        ],
+        "image": "t2q4"
+      },
+      {
+        "question": "Это...",
+        "answers": [
+          {
+            "answer": "Maniac",
+            "isCorrect": true
+          },
+          {
+            "answer": "Dynamite",
+            "isCorrect": false
+          },
+          {
+            "answer": "Christmas Evil",
+            "isCorrect": false
+          },
+          {
+            "answer": "Frost",
+            "isCorrect": false
+          }
+        ],
+        "image": "t2q5"
+      },
+      {
+        "question": "Это...",
+        "answers": [
+          {
+            "answer": "Maniac",
+            "isCorrect": false
+          },
+          {
+            "answer": "Red Lights",
+            "isCorrect": false
+          },
+          {
+            "answer": "Loser=Lover",
+            "isCorrect": false
+          },
+          {
+            "answer": "Christmas Evil",
+            "isCorrect": true
+          }
+        ],
+        "image": "t2q6"
+      },
+      {
+        "question": "Это...",
+        "answers": [
+          {
+            "answer": "Domino",
+            "isCorrect": false
+          },
+          {
+            "answer": "Black swan",
+            "isCorrect": false
+          },
+          {
+            "answer": "Loser=Lover",
+            "isCorrect": true
+          },
+          {
+            "answer": "Christmas Evil",
+            "isCorrect": false
+          }
+        ],
+        "image": "t2q7"
+      },
+      {
+        "question": "Это...",
+        "answers": [
+          {
+            "answer": "Eternally",
+            "isCorrect": true
+          },
+          {
+            "answer": "Domino",
+            "isCorrect": false
+          },
+          {
+            "answer": "Fake love",
+            "isCorrect": false
+          },
+          {
+            "answer": "Frost",
+            "isCorrect": false
+          }
+        ],
+        "image": "t2q8"
+      },
+      {
+        "question": "Это...",
+        "answers": [
+          {
+            "answer": "Red Lights",
+            "isCorrect": false
+          },
+          {
+            "answer": "Frost",
+            "isCorrect": true
+          },
+          {
+            "answer": "Maniac",
+            "isCorrect": false
+          },
+          {
+            "answer": "Loser=Lover",
+            "isCorrect": false
+          }
+        ],
+        "image": "t2q9"
+      },
+      {
+        "question": "Это...",
+        "answers": [
+          {
+            "answer": "Dynamite",
+            "isCorrect": false
+          },
+          {
+            "answer": "Black swan",
+            "isCorrect": false
+          },
+          {
+            "answer": "Red Lights",
+            "isCorrect": true
+          },
+          {
+            "answer": "Christmas Evil",
+            "isCorrect": false
+          }
+        ],
+        "image": "t2q10"
+      }
+    ]
+  },
+  {
+    "title": "Узнаешь участника по детскому фото?",
+    "questions":
+    [
+      {
+        "question": "Кто на фото?",
+        "answers": [
+          {
+            "answer": "Техен",
+            "isCorrect": true
+          },
+          {
+            "answer": "Бомгю",
+            "isCorrect": false
+          },
+          {
+            "answer": "Феликс",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чонгук",
+            "isCorrect": false
+          }
+        ],
+        "image": "t3q1"
+      },
+      {
+        "question": "Кто на фото?",
+        "answers": [
+          {
+            "answer": "Намджун",
+            "isCorrect": false
+          },
+          {
+            "answer": "Субин",
+            "isCorrect": true
+          },
+          {
+            "answer": "Сынмин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Тэхён",
+            "isCorrect": false
+          }
+        ],
+        "image": "t3q2"
+      },
+      {
+        "question": "Кто на фото?",
+        "answers": [
+          {
+            "answer": "Кай",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чимин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Бомгю",
+            "isCorrect": true
+          },
+          {
+            "answer": "Джисон",
+            "isCorrect": false
+          }
+        ],
+        "image": "t3q3"
+      },
+      {
+        "question": "Кто на фото?",
+        "answers": [
+          {
+            "answer": "Кай",
+            "isCorrect": true
+          },
+          {
+            "answer": "Техен",
+            "isCorrect": false
+          },
+          {
+            "answer": "Тэхен",
+            "isCorrect": false
+          },
+          {
+            "answer": "Джин",
+            "isCorrect": false
+          }
+        ],
+        "image": "t3q4"
+      },
+      {
+        "question": "Кто на фото?",
+        "answers": [
+          {
+            "answer": "Чонсок",
+            "isCorrect": false
+          },
+          {
+            "answer": "Ёнджун",
+            "isCorrect": true
+          },
+          {
+            "answer": "Чанбин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Хосок",
+            "isCorrect": false
+          }
+        ],
+        "image": "t3q5"
+      },
+      {
+        "question": "Кто на фото?",
+        "answers": [
+          {
+            "answer": "Юнги",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чонгук",
+            "isCorrect": false
+          },
+          {
+            "answer": "Кай",
+            "isCorrect": false
+          },
+          {
+            "answer": "Сынмин",
+            "isCorrect": true
+          }
+        ],
+        "image": "t3q6"
+      },
+      {
+        "question": "Кто на фото?",
+        "answers": [
+          {
+            "answer": "Феликс",
+            "isCorrect": true
+          },
+          {
+            "answer": "Хёнджин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Минхо",
+            "isCorrect": false
+          },
+          {
+            "answer": "Субин",
+            "isCorrect": false
+          }
+        ],
+        "image": "t3q7"
+      },
+      {
+        "question": "Кто на фото?",
+        "answers": [
+          {
+            "answer": "Ёнджун",
+            "isCorrect": false
+          },
+          {
+            "answer": "Банчан",
+            "isCorrect": true
+          },
+          {
+            "answer": "Чимин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Техён",
+            "isCorrect": false
+          }
+        ],
+        "image": "t3q8"
+      },
+      {
+        "question": "Кто на фото?",
+        "answers": [
+          {
+            "answer": "Феликс",
+            "isCorrect": false
+          },
+          {
+            "answer": "Хосок",
+            "isCorrect": false
+          },
+          {
+            "answer": "Намджун",
+            "isCorrect": false
+          },
+          {
+            "answer": "Тэхён",
+            "isCorrect": true
+          }
+        ],
+        "image": "t3q9"
+      },
+      {
+        "question": "Кто на фото?",
+        "answers": [
+          {
+            "answer": "Джисон",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чанбин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чонгук",
+            "isCorrect": true
+          },
+          {
+            "answer": "Чонин",
+            "isCorrect": false
+          }
+        ],
+        "image": "t3q10"
+      }
+    ]
+  },
+  {
+    "title": "Знаешь ли ты персонажей мемберов?",
+    "questions":
+    [
+      {
+        "question": "Чей это персонаж?",
+        "answers": [
+          {
+            "answer": "Юнги",
+            "isCorrect": true
+          },
+          {
+            "answer": "Чимин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чонин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Тэхён",
+            "isCorrect": false
+          }
+        ],
+        "image": "t4q1"
+      },
+      {
+        "question": "Чей это персонаж?",
+        "answers": [
+          {
+            "answer": "Намджун",
+            "isCorrect": false
+          },
+          {
+            "answer": "Джисон",
+            "isCorrect": false
+          },
+          {
+            "answer": "Хосок",
+            "isCorrect": true
+          },
+          {
+            "answer": "Минхо",
+            "isCorrect": false
+          }
+        ],
+        "image": "t4q2"
+      },
+      {
+        "question": "Чей это персонаж?",
+        "answers": [
+          {
+            "answer": "Чонгук",
+            "isCorrect": false
+          },
+          {
+            "answer": "Джин",
+            "isCorrect": true
+          },
+          {
+            "answer": "Чанбин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Банчан",
+            "isCorrect": false
+          }
+        ],
+        "image": "t4q3"
+      },
+      {
+        "question": "Чей это персонаж?",
+        "answers": [
+          {
+            "answer": "Чонин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Джин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Кай",
+            "isCorrect": false
+          },
+          {
+            "answer": "Намджун",
+            "isCorrect": true
+          }
+        ],
+        "image": "t4q4"
+      },
+      {
+        "question": "Чей это персонаж?",
+        "answers": [
+          {
+            "answer": "Техён",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чонин",
+            "isCorrect": true
+          },
+          {
+            "answer": "Минхо",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чимин",
+            "isCorrect": false
+          }
+        ],
+        "image": "t4q5"
+      },
+      {
+        "question": "Чей это персонаж?",
+        "answers": [
+          {
+            "answer": "Хёнджин",
+            "isCorrect": true
+          },
+          {
+            "answer": "Джисон",
+            "isCorrect": false
+          },
+          {
+            "answer": "Сынмин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Хосок",
+            "isCorrect": false
+          }
+        ],
+        "image": "t4q6"
+      },
+      {
+        "question": "Чей это персонаж?",
+        "answers": [
+          {
+            "answer": "Феликс",
+            "isCorrect": false
+          },
+          {
+            "answer": "Сокджин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чонгук",
+            "isCorrect": false
+          },
+          {
+            "answer": "Минхо",
+            "isCorrect": true
+          }
+        ],
+        "image": "t4q7"
+      },
+      {
+        "question": "Чей это персонаж?",
+        "answers": [
+          {
+            "answer": "Юнги",
+            "isCorrect": false
+          },
+          {
+            "answer": "Феликс",
+            "isCorrect": true
+          },
+          {
+            "answer": "Хёнджин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Тэхён",
+            "isCorrect": false
+          }
+        ],
+        "image": "t4q8"
+      },
+      {
+        "question": "Чей это персонаж?",
+        "answers": [
+          {
+            "answer": "Джисон",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чанбин",
+            "isCorrect": true
+          },
+          {
+            "answer": "Субин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Бомгю",
+            "isCorrect": false
+          }
+        ],
+        "image": "t4q9"
+      },
+      {
+        "question": "Чей это персонаж?",
+        "answers": [
+          {
+            "answer": "Чимин",
+            "isCorrect": true
+          },
+          {
+            "answer": "Намджун",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чонин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Ёнджун",
+            "isCorrect": false
+          }
+        ],
+        "image": "t4q10"
+      }
+    ]
+  },
+  {
+    "title": "Проверим твои знания в биографии групп?",
+    "questions":
+    [
+      {
+        "question": "Когда дебютировала группа ТХТ?",
+        "answers": [
+          {
+            "answer": "4 марта 2019",
+            "isCorrect": true
+          },
+          {
+            "answer": "16 марта 2018",
+            "isCorrect": false
+          },
+          {
+            "answer": "11 марта 2019",
+            "isCorrect": false
+          },
+          {
+            "answer": "4 марта 2018",
+            "isCorrect": false
+          }
+        ],
+        "image": "t5q1"
+      },
+      {
+        "question": "Когда дебютировала группа BTS?",
+        "answers": [
+          {
+            "answer": "13 июля 2013",
+            "isCorrect": false
+          },
+          {
+            "answer": "13 июня 2014",
+            "isCorrect": false
+          },
+          {
+            "answer": "13 июня 2013",
+            "isCorrect": true
+          },
+          {
+            "answer": "13 июля 2014",
+            "isCorrect": false
+          }
+        ],
+        "image": "t5q2"
+      },
+      {
+        "question": "Когда дебютировала группа Stray kids?",
+        "answers": [
+          {
+            "answer": "ноябрь 2017",
+            "isCorrect": false
+          },
+          {
+            "answer": "октябрь 2017",
+            "isCorrect": true
+          },
+          {
+            "answer": "октябрь 2018",
+            "isCorrect": false
+          },
+          {
+            "answer": "ноябрь 2018",
+            "isCorrect": false
+          }
+        ],
+        "image": "t5q3"
+      },
+      {
+        "question": "Когда вышла песня Butter?",
+        "answers": [
+          {
+            "answer": "22 мая 2021",
+            "isCorrect": false
+          },
+          {
+            "answer": "21 марта 2021",
+            "isCorrect": false
+          },
+          {
+            "answer": "21 мая 2022",
+            "isCorrect": false
+          },
+          {
+            "answer": "21 мая 2021",
+            "isCorrect": true
+          }
+        ],
+        "image": "t5q4"
+      },
+      {
+        "question": "Когда вышла песня Domino?",
+        "answers": [
+          {
+            "answer": "22 августа 2021",
+            "isCorrect": false
+          },
+          {
+            "answer": "23 августа 2021",
+            "isCorrect": true
+          },
+          {
+            "answer": "23 апреля 2021",
+            "isCorrect": false
+          },
+          {
+            "answer": "23 августа 2020",
+            "isCorrect": false
+          }
+        ],
+        "image": "t5q5"
+      },
+      {
+        "question": "Когда вышла песня Loser=Lover?",
+        "answers": [
+          {
+            "answer": "17 августа 2020",
+            "isCorrect": false
+          },
+          {
+            "answer": "18 августа 2021",
+            "isCorrect": false
+          },
+          {
+            "answer": "17 августа 2021",
+            "isCorrect": true
+          },
+          {
+            "answer": "19 августа 2022",
+            "isCorrect": false
+          }
+        ],
+        "image": "t5q6"
+      },
+      {
+        "question": "Кто в ТХТ младший участник?",
+        "answers": [
+          {
+            "answer": "Кай",
+            "isCorrect": true
+          },
+          {
+            "answer": "Бомгю",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чонгук",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чонин",
+            "isCorrect": false
+          }
+        ],
+        "image": "t5q7"
+      },
+      {
+        "question": "Кто в BTS младший участник?",
+        "answers": [
+          {
+            "answer": "Чонин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Минхо",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чонгук",
+            "isCorrect": true
+          },
+          {
+            "answer": "Ёнджун",
+            "isCorrect": false
+          }
+        ],
+        "image": "t5q8"
+      },
+      {
+        "question": "Кто в Stray kids младший участник?",
+        "answers": [
+          {
+            "answer": "Банчан",
+            "isCorrect": false
+          },
+          {
+            "answer": "Хёнджин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чимин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Чонин",
+            "isCorrect": true
+          }
+        ],
+        "image": "t5q9"
+      },
+      {
+        "question": "Лидер группы Stray kids?",
+        "answers": [
+          {
+            "answer": "Намджун",
+            "isCorrect": false
+          },
+          {
+            "answer": "Банчан",
+            "isCorrect": true
+          },
+          {
+            "answer": "Субин",
+            "isCorrect": false
+          },
+          {
+            "answer": "Джин",
+            "isCorrect": false
+          }
+        ],
+        "image": "t5q10"
+      },
+      {
+        "question": "Лидер группы ТХТ?",
+        "answers": [
+          {
+            "answer": "Тэхён",
+            "isCorrect": false
+          },
+          {
+            "answer": "Техён",
+            "isCorrect": false
+          },
+          {
+            "answer": "Субин",
+            "isCorrect": true
+          },
+          {
+            "answer": "Намджун",
+            "isCorrect": false
+          }
+        ],
+        "image": "t5q11"
+      },
+      {
+        "question": "Лидер группы BTS?",
+        "answers": [
+          {
+            "answer": "Минхо",
+            "isCorrect": false
+          },
+          {
+            "answer": "Джисон",
+            "isCorrect": false
+          },
+          {
+            "answer": "Банчан",
+            "isCorrect": false
+          },
+          {
+            "answer": "Намджун",
+            "isCorrect": true
+          }
+        ],
+        "image": "t5q12"
+      }
+    ]
   }
 ]
